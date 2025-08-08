@@ -95,7 +95,7 @@ src
 - **MongoDB connection error:** Verify URI and ensure MongoDB is running.
 - **Port already in use:** Change in `application.properties`:
   ```properties
-  server.port=8081
+  server.port=8080
   ```
 
 ---
